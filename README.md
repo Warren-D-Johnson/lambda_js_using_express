@@ -7,7 +7,8 @@ I spent the first 10+ years of my career rebooting servers at random times of th
 At the very least, you'll need an AWS account, an HTTP API Gateway and a lambda setup.<br>
 <br>
 Deploying the code can be done via Github workflow or whatever your favorite deployment tool is.  You can even deploy it manually using the AWS CLI (see deploy.sh in the root of the repository).<Br>
-Here's a github workflow to deploy a lambda: https://github.com/Warren-D-Johnson/github_workflows/blob/master/deploy_a_single_lambda.yaml<br>
+Here's a github workflow to deploy a lambda:<br>
+https://github.com/Warren-D-Johnson/github_workflows/blob/master/deploy_a_single_lambda.yaml<br>
 <br>
 Notes:<br>
 
