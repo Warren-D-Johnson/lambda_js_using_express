@@ -1,6 +1,6 @@
 # lambda_js_using_express
 
-**tldr;** Starter repo for building a Javascript application with ExpressJS that will run on a Lambda
+**tldr;** Starter repo for building a Javascript application with ExpressJS that will run on a Lambda and use API Gateway.
 
 I spent the first 10+ years of my career rebooting servers at random times of the day so I'm a huge proponent of serverless architecture.  AWS provides us a simple, scale-to-zero, high availability, scalable method for deploying APIs.  If you need something simple, I recommend Javascript using ExpressJS.  If you are doing something complex, I would recommend Typescript with NestJS.<br>
 <br>
